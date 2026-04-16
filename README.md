@@ -1,21 +1,35 @@
-# How to Filter and Group the Blazor AutoComplete Items
+# Blazor AutoComplete Filtering and Grouping Sample
 
-This sample explains about how to group the Blazor AutoComplete items as well as how to filter them.
+## Repository Description
+A comprehensive Blazor sample project demonstrating how to implement advanced AutoComplete functionality with filtering and grouping capabilities using Syncfusion components.
 
-**Examples**: https://blazor.syncfusion.com/demos/autocomplete/grouping-icon   
+## Project Overview
+This project demonstrates best practices for implementing the Blazor AutoComplete component with grouping and filtering functionality using Syncfusion components.
 
-**Documentation**: 
+## Features
+- **AutoComplete Grouping**: Organize items into categories
+- **Advanced Filtering**: Dynamic filtering based on user input
+- **Syncfusion Integration**: Leverages Syncfusion Blazor components
+- **Interactive Examples**: Fully functional demonstrations
 
-* https://blazor.syncfusion.com/documentation/autocomplete/grouping 
-* https://blazor.syncfusion.com/documentation/autocomplete/filtering
+## Installation and Setup
+1. Checkout this project to a location on your disk
+2. Open the solution file in Visual Studio 2022
+3. Restore NuGet packages by rebuilding the solution
+4. Run the project
 
-## Prerequisites
+## Usage
+The sample demonstrates:
+- Grouping autocomplete suggestions by category
+- Filtering items based on user input
 
-* Visual Studio 2022
+## Resources and Documentation
+**Live Examples**:
+- https://blazor.syncfusion.com/demos/autocomplete/grouping-icon
 
-## How to run the project
+**Documentation**:
+- [AutoComplete Grouping](https://blazor.syncfusion.com/documentation/autocomplete/grouping)
+- [AutoComplete Filtering](https://blazor.syncfusion.com/documentation/autocomplete/filtering)
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+## Support
+For additional help and support, refer to the official Syncfusion Blazor documentation and community resources.
