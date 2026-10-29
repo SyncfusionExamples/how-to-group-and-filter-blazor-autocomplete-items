@@ -14,7 +14,7 @@ This project demonstrates best practices for implementing the Blazor AutoComplet
 
 ## Installation and Setup
 1. Checkout this project to a location on your disk
-2. Open the solution file in Visual Studio 2022
+2. Open the solution file in Visual Studio 2026 (.NET 10 SDK)
 3. Restore NuGet packages by rebuilding the solution
 4. Run the project
 
